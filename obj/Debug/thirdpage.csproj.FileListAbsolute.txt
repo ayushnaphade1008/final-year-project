@@ -1,0 +1,12 @@
+C:\Users\AYUSH\source\repos\thirdpage\bin\Debug\thirdpage.exe.config
+C:\Users\AYUSH\source\repos\thirdpage\bin\Debug\thirdpage.exe
+C:\Users\AYUSH\source\repos\thirdpage\bin\Debug\thirdpage.pdb
+C:\Users\AYUSH\source\repos\thirdpage\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.csproj.AssemblyReference.cache
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.Form1.resources
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.Properties.Resources.resources
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.csproj.GenerateResource.cache
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.csproj.CoreCompileInputs.cache
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.csproj.CopyComplete
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.exe
+C:\Users\AYUSH\source\repos\thirdpage\obj\Debug\thirdpage.pdb
